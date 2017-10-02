@@ -1,5 +1,5 @@
 // General
-project_name="xebia-k8s"
+project_name="xebia-k8s-zahir"
 owner="tauffredou@xebia.fr"
 
 // Infra
